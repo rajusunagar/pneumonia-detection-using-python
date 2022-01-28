@@ -2,8 +2,6 @@
 
 Pneumonia Detection from X-Ray Images
 
-Author : Subharshi Roy
-
 Introduction
 
 Around the world, 16% of every death of children under five worldwide are responsible due to pneumonia. In the United States, near about 1 million people pursue medical aid from hospitals with 50,000 deaths per year [1]. Recently, life-threatening pneumonia complicated coronavirus (COVID-19) disease is proclaiming thousands of lives in 2020. Pneumonia is an inflammatory lung condition which not only involves a single illness but many different illnesses caused by different microorganisms.
