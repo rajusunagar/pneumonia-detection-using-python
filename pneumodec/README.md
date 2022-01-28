@@ -52,4 +52,3 @@ References :
 5. https://machinelearningmastery.com/transfer-learning-for-deep-learning/
 6. https://www.tensorflow.org/api_docs/python/tf/keras/applications )
 
-
